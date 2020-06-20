@@ -1,0 +1,9 @@
+#mapid {
+    height: 500px; 
+    width: 900px;
+}
+img{
+    position: relative;
+    top: -500px; /* ajustar los valores para mover la imagen */
+    left: 900px;
+}
